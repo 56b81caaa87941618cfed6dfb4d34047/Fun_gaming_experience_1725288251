@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors or color themes do you envision for the template?\", \"option1\": \"Bright and vibrant colors\", \"option2\": \"Pastel and soft colors\"}, {\"question 2\": \"Would you prefer the template to have a minimalistic design or a more complex and detailed layout?\", \"option1\": \"Minimalist design\", \"option2\": \"Complex and detailed layout\"}], \"input_token_count\": 284, \"output_token_count\": 92, \"time_taken\": \"0:00:01.343355\"}",
+        "timestamp": "02092024145246",
+        "message_id": "guest02092024145241"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on adding a colorful template now.",
         "timestamp": "02092024145242",
