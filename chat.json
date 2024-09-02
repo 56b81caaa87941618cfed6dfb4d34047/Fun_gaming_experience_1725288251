@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style of image are you envisioning for the TRex? \", \"option1\": \"Realistic and detailed\", \"option2\": \"Cartoonish and vibrant\"}, {\"question 2\": \"Where would you like the TRex image to be placed in the game?\", \"option1\": \"As a background element\", \"option2\": \"As a character in the game\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.979787\"}",
+        "message_id": "guest02092024145312",
+        "timestamp": "02092024145319",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a nice image of a TRex",
         "message_id": "guest02092024145312",
