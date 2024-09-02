@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "Add a nice image of a TRex, Implement a colorful background template, Design a user-friendly main menu",
+        "timestamp": "02092024145354",
+        "message_id": "guest02092024145354"
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a nice image of a TRex\", \"checked\": true}, {\"feature\": \"Implement a colorful background template\", \"checked\": true}, {\"feature\": \"Include an animated TRex character\", \"checked\": false}, {\"feature\": \"Add sound effects during gameplay\", \"checked\": false}, {\"feature\": \"Create a leaderboard to track high scores\", \"checked\": false}, {\"feature\": \"Design a user-friendly main menu\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 110, \"time_taken\": \"0:00:01.651365\"}",
         "timestamp": "02092024145321",
