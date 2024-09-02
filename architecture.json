@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a colorfull template\n\nThis is the user's current request of changes to be made:\nadd a colorfull template"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the addition of a colorful template. The AI assistant acknowledged this request and confirmed that it was working on it. Following that, the AI posed two questions to the user regarding their preferences for the template: what specific colors or color themes they envisioned, offering options of \"Bright and vibrant colors\" or \"Pastel and soft colors,\" and whether they preferred a minimalistic design or a more complex and detailed layout, providing the same two options for each. The AI noted the status of the interaction, input and output token counts, and the time taken for the response.\nUser: Add a nice image of a TRex, Implement a colorful background template, Design a user-friendly main menu\nAI: Sure, I'm on it for the TRex image, colorful background, and user-friendly menu.\nUser: add a nice image of a TRex\nAI: Okay, I will add a nice image of a T-Rex.\n\nThis is the user's current request of changes to be made:\nAdd animations to the main menu transitions, Integrate customizable character options"
     }
 ]
