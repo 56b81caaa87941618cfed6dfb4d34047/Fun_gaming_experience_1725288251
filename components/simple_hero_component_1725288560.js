@@ -17,10 +17,13 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
                 </div>
                 <div id="hero-buttons-container" class="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
                     <div id="hero-button-1-container" class="flex">
-                        <a id="hero-button-1" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-purple-600 bg-yellow-300 rounded-lg sm:w-auto hover:bg-yellow-400 focus:ring-4 focus:ring-yellow-200">Play Now</a>
+                        <a id="hero-button-1" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-purple-600 bg-yellow-300 rounded-lg sm:w-auto hover:bg-yellow-400 focus:ring-4 focus:ring-yellow-200 transition-all duration-300 ease-in-out transform hover:scale-105">Play Now</a>
                     </div>
                     <div id="hero-button-2-container" class="flex">
-                        <a id="hero-button-2" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-yellow-300 bg-purple-600 rounded-lg sm:w-auto hover:bg-purple-700 focus:ring-4 focus:ring-purple-500">Learn More</a>
+                        <a id="hero-button-2" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-yellow-300 bg-purple-600 rounded-lg sm:w-auto hover:bg-purple-700 focus:ring-4 focus:ring-purple-500 transition-all duration-300 ease-in-out transform hover:scale-105">Learn More</a>
+                    </div>
+                    <div id="hero-button-3-container" class="flex">
+                        <a id="hero-button-3" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-purple-600 bg-green-300 rounded-lg sm:w-auto hover:bg-green-400 focus:ring-4 focus:ring-green-200 transition-all duration-300 ease-in-out transform hover:scale-105">Customize Character</a>
                     </div>
                 </div>
             </div>
@@ -38,8 +41,31 @@ export default {
     data() {
         return {
             expanded: false,
-            tab: null
+            tab: null,
+            characters: [
+                { id: 1, name: 'Character 1', image: './images/character1.png' },
+                { id: 2, name: 'Character 2', image: './images/character2.png' },
+                { id: 3, name: 'Character 3', image: './images/character3.png' }
+            ],
+            selectedCharacter: null
         };
+    },
+    methods: {
+        // Character selection method
+        selectCharacter(character) {
+            this.selectedCharacter = character;
+            console.log(`Selected character: ${character.name}`);
+        }
+        // End of character selection method
     }
 };
 </script>
+
+<style scoped>
+.fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}
+</style>
