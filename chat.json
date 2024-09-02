@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a nice image of a TRex\", \"checked\": true}, {\"feature\": \"Implement a colorful background template\", \"checked\": true}, {\"feature\": \"Include an animated TRex character\", \"checked\": false}, {\"feature\": \"Add sound effects during gameplay\", \"checked\": false}, {\"feature\": \"Create a leaderboard to track high scores\", \"checked\": false}, {\"feature\": \"Design a user-friendly main menu\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 110, \"time_taken\": \"0:00:01.651365\"}",
+        "message_id": "guest02092024145312",
+        "timestamp": "02092024145321",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style of image are you envisioning for the TRex? \", \"option1\": \"Realistic and detailed\", \"option2\": \"Cartoonish and vibrant\"}, {\"question 2\": \"Where would you like the TRex image to be placed in the game?\", \"option1\": \"As a background element\", \"option2\": \"As a character in the game\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.979787\"}",
         "message_id": "guest02092024145312",
