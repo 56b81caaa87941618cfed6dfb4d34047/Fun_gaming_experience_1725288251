@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on adding a colorful template now.",
+        "timestamp": "02092024145242",
+        "message_id": "guest02092024145241"
+    },
+    {
         "role": "user",
         "content": "add a colorfull template",
         "timestamp": "02092024145241",
