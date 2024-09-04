@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Let\u2019s focus on your project requirements for the title.",
+        "message_id": "guest04092024081424",
+        "timestamp": "04092024081425",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "geneate a title",
         "message_id": "guest04092024081424",
