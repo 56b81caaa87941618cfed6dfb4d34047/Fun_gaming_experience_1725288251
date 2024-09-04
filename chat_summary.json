@@ -8,6 +8,57 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "geneate a title",
+        "message_id": "guest04092024081424",
+        "timestamp": "04092024081424",
+        "component_file_name": "purple_header_component_1725288254",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested to add a nice image of a T-Rex, to which the AI responded positively. Subsequently, the AI provided a checklist of additional features for implementation, which included options like adding sound effects during gameplay and creating a leaderboard, with various features marked as checked or unchecked. The user was also asked two questions regarding their vision for the T-Rex image and placement, offering options for both realistic versus cartoonish styles and background versus character positioning. Additionally, the user requested a colorful template, prompting the AI to again acknowledge it and confirm they were working on that feature. Another round of questions followed regarding color themes and design complexity for the template, affirming the user's preferences for a vibrant color palette and a minimalist design.",
+        "timestamp": "04092024081424",
+        "message_id": "guest04092024081424"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add animations to the main menu transitions\", \"checked\": true}, {\"feature\": \"Integrate customizable character options\", \"checked\": true}, {\"feature\": \"Include sound effects for menu interactions\", \"checked\": false}, {\"feature\": \"Create a tutorial or help section for new players\", \"checked\": false}, {\"feature\": \"Add daily challenges or rewards feature\", \"checked\": false}], \"input_token_count\": 430, \"output_token_count\": 94, \"time_taken\": \"0:00:01.071173\"}",
+        "message_id": "guest02092024145415",
+        "timestamp": "02092024145420",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of animations do you envision for the main menu transitions?\", \"option1\": \"Smooth fades and slides\", \"option2\": \"Quick zoom and bounce animations\"}, {\"question 2\": \"How customizable would you like the character options to be?\", \"option1\": \"Simple outfit changes\", \"option2\": \"Full customization with features like color, accessories, and traits\"}], \"input_token_count\": 476, \"output_token_count\": 91, \"time_taken\": \"0:00:00.969488\"}",
+        "message_id": "guest02092024145415",
+        "timestamp": "02092024145418",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add animations to the main menu transitions, Integrate customizable character options",
+        "message_id": "guest02092024145415",
+        "timestamp": "02092024145415",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, adding animations and customizable character options now.",
+        "message_id": "guest02092024145415",
+        "timestamp": "02092024145415",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add animations to the main menu transitions\", \"checked\": true}, {\"feature\": \"Include sound effects for menu interactions\", \"checked\": false}, {\"feature\": \"Create a leaderboard screen\", \"checked\": false}, {\"feature\": \"Integrate customizable character options\", \"checked\": true}, {\"feature\": \"Add tooltips for user guidance\", \"checked\": false}], \"input_token_count\": 316, \"output_token_count\": 89, \"time_taken\": \"0:00:01.097999\"}",
         "message_id": "guest02092024145354",
@@ -15,12 +66,6 @@
         "component_file_name": "simple_hero_component_1725288560",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "In the conversation, the user requested the addition of a colorful template. The AI assistant acknowledged this request and confirmed that it was working on it. Following that, the AI posed two questions to the user regarding their preferences for the template: what specific colors or color themes they envisioned, offering options of \"Bright and vibrant colors\" or \"Pastel and soft colors,\" and whether they preferred a minimalistic design or a more complex and detailed layout, providing the same two options for each. The AI noted the status of the interaction, input and output token counts, and the time taken for the response.",
-        "timestamp": "02092024145359",
-        "message_id": "guest02092024145354"
     },
     {
         "role": "chat_qna",
@@ -46,51 +91,6 @@
         "message_id": "guest02092024145354",
         "timestamp": "02092024145354",
         "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a nice image of a TRex\", \"checked\": true}, {\"feature\": \"Implement a colorful background template\", \"checked\": true}, {\"feature\": \"Include an animated TRex character\", \"checked\": false}, {\"feature\": \"Add sound effects during gameplay\", \"checked\": false}, {\"feature\": \"Create a leaderboard to track high scores\", \"checked\": false}, {\"feature\": \"Design a user-friendly main menu\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 110, \"time_taken\": \"0:00:01.651365\"}",
-        "message_id": "guest02092024145312",
-        "timestamp": "02092024145321",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style of image are you envisioning for the TRex? \", \"option1\": \"Realistic and detailed\", \"option2\": \"Cartoonish and vibrant\"}, {\"question 2\": \"Where would you like the TRex image to be placed in the game?\", \"option1\": \"As a background element\", \"option2\": \"As a character in the game\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.979787\"}",
-        "message_id": "guest02092024145312",
-        "timestamp": "02092024145319",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a nice image of a TRex",
-        "message_id": "guest02092024145312",
-        "timestamp": "02092024145313",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I will add a nice image of a T-Rex.",
-        "message_id": "guest02092024145312",
-        "timestamp": "02092024145313",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable color palettes for themes\", \"checked\": true}, {\"feature\": \"Implement animated background effects\", \"checked\": false}, {\"feature\": \"Include a color contrast selector for accessibility\", \"checked\": true}, {\"feature\": \"Provide templates with seasonal color themes\", \"checked\": false}, {\"feature\": \"Allow users to save their favorite color combos\", \"checked\": true}], \"input_token_count\": 238, \"output_token_count\": 92, \"time_taken\": \"0:00:01.251728\"}",
-        "message_id": "guest02092024145241",
-        "timestamp": "02092024145249",
-        "component_file_name": "simple_hero_component_1725288560",
         "div_id": "",
         "div_action": ""
     }
