@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What kind of title are you envisioning for your game?\", \"option1\": \"A fun and playful title\", \"option2\": \"A more serious and adventurous title\"}, {\"question 2\": \"Do you want the title to have any specific style or font?\", \"option1\": \"Bold and eye-catching\", \"option2\": \"Elegant and minimalistic\"}], \"input_token_count\": 505, \"output_token_count\": 88, \"time_taken\": \"0:00:01.355749\"}",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090051",
+        "component_file_name": "blank_component_1725613198",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "ADD TITILE HERE",
         "message_id": "guest06092024090047",
