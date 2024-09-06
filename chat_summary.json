@@ -8,6 +8,57 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a catchy title for the game\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Implement a dynamic title animation\", \"checked\": false}, {\"feature\": \"Create a title screen with game tips\", \"checked\": false}, {\"feature\": \"Allow users to customize the title appearance\", \"checked\": false}], \"input_token_count\": 459, \"output_token_count\": 93, \"time_taken\": \"0:00:01.321548\"}",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090053",
+        "component_file_name": "blank_component_1725613198",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested the addition of various features for a game, including a nice image of a T-Rex, a colorful background template, and a user-friendly main menu. The AI acknowledged these requests and confirmed its action to implement the T-Rex image, the colorful background, and the user-friendly menu. The AI also provided a checklist of additional features the user might consider, such as animations for menu transitions, sound effects, a leaderboard screen, and customizable character options. \n\nFurthermore, the AI posed questions to the user to gather preferences on specific colors or themes for the background template and the design elements of the main menu. The user expressed a desire for bright and vibrant colors and large buttons with images for the menu. The AI continued to suggest other features, including customizable color palettes and color contrast selectors for accessibility, while also asking about the style and placement of the T-Rex image in the game. Throughout the conversation, the AI confirmed its ongoing work on the user's requests and incorporated the user's choices into the project.",
+        "timestamp": "06092024090053",
+        "message_id": "guest06092024090047"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What kind of title are you envisioning for your game?\", \"option1\": \"A fun and playful title\", \"option2\": \"A more serious and adventurous title\"}, {\"question 2\": \"Do you want the title to have any specific style or font?\", \"option1\": \"Bold and eye-catching\", \"option2\": \"Elegant and minimalistic\"}], \"input_token_count\": 505, \"output_token_count\": 88, \"time_taken\": \"0:00:01.355749\"}",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090051",
+        "component_file_name": "blank_component_1725613198",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "ADD TITILE HERE",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090048",
+        "component_file_name": "blank_component_1725613198",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll add the title as requested.",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090048",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Let\u2019s focus on your project requirements for the title.",
+        "message_id": "guest04092024081424",
+        "timestamp": "04092024081425",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "geneate a title",
         "message_id": "guest04092024081424",
@@ -15,12 +66,6 @@
         "component_file_name": "purple_header_component_1725288254",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "In the conversation, the user requested to add a nice image of a T-Rex, to which the AI responded positively. Subsequently, the AI provided a checklist of additional features for implementation, which included options like adding sound effects during gameplay and creating a leaderboard, with various features marked as checked or unchecked. The user was also asked two questions regarding their vision for the T-Rex image and placement, offering options for both realistic versus cartoonish styles and background versus character positioning. Additionally, the user requested a colorful template, prompting the AI to again acknowledge it and confirm they were working on that feature. Another round of questions followed regarding color themes and design complexity for the template, affirming the user's preferences for a vibrant color palette and a minimalist design.",
-        "timestamp": "04092024081424",
-        "message_id": "guest04092024081424"
     },
     {
         "role": "chat_ui_checklist",
@@ -46,51 +91,6 @@
         "message_id": "guest02092024145415",
         "timestamp": "02092024145415",
         "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, adding animations and customizable character options now.",
-        "message_id": "guest02092024145415",
-        "timestamp": "02092024145415",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add animations to the main menu transitions\", \"checked\": true}, {\"feature\": \"Include sound effects for menu interactions\", \"checked\": false}, {\"feature\": \"Create a leaderboard screen\", \"checked\": false}, {\"feature\": \"Integrate customizable character options\", \"checked\": true}, {\"feature\": \"Add tooltips for user guidance\", \"checked\": false}], \"input_token_count\": 316, \"output_token_count\": 89, \"time_taken\": \"0:00:01.097999\"}",
-        "message_id": "guest02092024145354",
-        "timestamp": "02092024145359",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors or themes would you like for the colorful background template?\", \"option1\": \"Bright and vibrant colors\", \"option2\": \"Muted pastel colors\"}, {\"question 2\": \"What elements do you want to include in the user-friendly main menu?\", \"option1\": \"Large buttons with images\", \"option2\": \"Text-based options with icons\"}], \"input_token_count\": 362, \"output_token_count\": 88, \"time_taken\": \"0:00:01.035895\"}",
-        "message_id": "guest02092024145354",
-        "timestamp": "02092024145357",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Add a nice image of a TRex, Implement a colorful background template, Design a user-friendly main menu",
-        "message_id": "guest02092024145354",
-        "timestamp": "02092024145354",
-        "component_file_name": "simple_hero_component_1725288560",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'm on it for the TRex image, colorful background, and user-friendly menu.",
-        "message_id": "guest02092024145354",
-        "timestamp": "02092024145354",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
