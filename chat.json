@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a catchy title for the game\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Implement a dynamic title animation\", \"checked\": false}, {\"feature\": \"Create a title screen with game tips\", \"checked\": false}, {\"feature\": \"Allow users to customize the title appearance\", \"checked\": false}], \"input_token_count\": 459, \"output_token_count\": 93, \"time_taken\": \"0:00:01.321548\"}",
+        "message_id": "guest06092024090047",
+        "timestamp": "06092024090053",
+        "component_file_name": "blank_component_1725613198",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What kind of title are you envisioning for your game?\", \"option1\": \"A fun and playful title\", \"option2\": \"A more serious and adventurous title\"}, {\"question 2\": \"Do you want the title to have any specific style or font?\", \"option1\": \"Bold and eye-catching\", \"option2\": \"Elegant and minimalistic\"}], \"input_token_count\": 505, \"output_token_count\": 88, \"time_taken\": \"0:00:01.355749\"}",
         "message_id": "guest06092024090047",
