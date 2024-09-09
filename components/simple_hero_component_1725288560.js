@@ -29,7 +29,7 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
             </div>
             <!-- Right section containing image -->
             <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img id="hero-image" src="./images/hero.png" alt="hero image" class="rounded-lg shadow-lg">
+                <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Fun_gaming_experience_1725288251/main/images/64f20a99bad9478b8408448cc3703e25.jpeg" alt="hero image" class="rounded-lg shadow-lg">
             </div>
         </div>
     </section>
