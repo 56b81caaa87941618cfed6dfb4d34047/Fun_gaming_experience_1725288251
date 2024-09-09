@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of green do you envision for the background?\", \"option1\": \"Light green with vibrant accents\", \"option2\": \"Dark green with subtle patterns\"}, {\"question 2\": \"Would you like any additional colors to complement the green background?\", \"option1\": \"Yes, add some contrasting colors\", \"option2\": \"No, just green is fine\"}], \"input_token_count\": 539, \"output_token_count\": 89, \"time_taken\": \"0:00:02.560169\"}",
+        "message_id": "guest09092024124041",
+        "timestamp": "09092024124046",
+        "component_file_name": "simple_hero_component_1725288560",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on adding a green colorful background.",
         "message_id": "guest09092024124041",
