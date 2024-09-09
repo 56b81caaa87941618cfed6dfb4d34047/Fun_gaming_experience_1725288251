@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on adding a green colorful background.",
+        "message_id": "guest09092024124041",
+        "timestamp": "09092024124043",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "I want a green colorful background",
         "message_id": "guest09092024124041",
