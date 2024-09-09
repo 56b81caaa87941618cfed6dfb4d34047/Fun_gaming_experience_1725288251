@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will change the background to colorful green.",
+        "message_id": "guest09092024124202",
+        "timestamp": "09092024124205",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "the background should be all colofurl green, not only an image",
         "message_id": "guest09092024124202",
